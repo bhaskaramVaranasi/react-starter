@@ -1,0 +1,11 @@
+{
+  "name": "template-for-react-client",
+  "version": "0.1.0",
+  "description": "React js client side template with web pack dev server as well as babel pre installed (ofcourse you need to run npm install)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Venkata Bhaskaram",
+  "license": "ISC"
+}
